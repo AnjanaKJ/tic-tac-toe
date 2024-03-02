@@ -41,7 +41,7 @@ or
 yarn start
 ```
 
-The application should now be running locally on `http://localhost:3000`.
+The application should now be running locally on `[http://localhost:3000](http://localhost:3000/tic-tac-toe)`.
 
 ## How to Play
 
