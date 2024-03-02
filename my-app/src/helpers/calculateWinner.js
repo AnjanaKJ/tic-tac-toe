@@ -15,6 +15,7 @@ function calculateWinner(squares) {
         return squares[a];
       }
     }
+    //you might need this 'classicpolo'
     return null;
   }
 
